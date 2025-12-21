@@ -1,5 +1,4 @@
 # ExerciseAppSwiftUI
-Simple workout tracker using SwiftUI, SwiftData, and Swift Charts. (MVVM)
 
 A modern fitness app built with SwiftUI and SwiftData to track exercises and visualize progress.
 
