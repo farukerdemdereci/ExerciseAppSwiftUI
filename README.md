@@ -4,7 +4,7 @@ A modern fitness app built with SwiftUI and SwiftData to track exercises and vis
 
 Features:
 
-- MVVM Architecture
-- SwiftData for local persistence
-- Swift Charts for progress visualization
-- Search and manage workout routines
+* MVVM Architecture
+* SwiftData for local persistence
+* Swift Charts for progress visualization
+* Search and manage workout routines
