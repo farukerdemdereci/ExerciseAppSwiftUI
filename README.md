@@ -7,10 +7,9 @@ A modern fitness app built with SwiftUI and SwiftData to track exercises and vis
 ## Screenshots
 
 <p align="center">
-  <img src="launchscreen.png" width="220" />
-  <img src="login.png" width="220" />
-  <img src="list.png" width="220" />
-  <img src="map.png" width="220" />
+  <img src="listexercise.png" width="220" />
+  <img src="popup.png" width="220" />
+  <img src="detail.png" width="220" />
 </p>
 
 ---
